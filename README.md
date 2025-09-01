@@ -12,7 +12,7 @@ This project highlights my interest in UI design, form styling, and creative pre
 🖼️ Preview
 ![Sign-up-Page Preview](https://github.com/MadhuraFadatare/Simple-Sign-in-Page-/blob/main/Screenshot%202025-09-01%20215214.png?raw=true)
 
-
+[watch demo here](https://github.com/MadhuraFadatare/Simple-Sign-in-Page-/blob/f413314beb59153079f8bc066bdb4d79d4bcdcea/Screen%20Recording%202025-08-28%20200523.mp4)
 
 🛠️ Tech Stack
 ->HTML: For Structure and semantic layout
