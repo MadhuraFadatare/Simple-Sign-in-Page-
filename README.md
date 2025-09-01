@@ -10,7 +10,7 @@ This project highlights my interest in UI design, form styling, and creative pre
 - To build a visually engaging form that could fit into any modern web app
 
 🖼️ Preview
-![Sign-up-Page Preview]()
+![Sign-up-Page Preview](https://github.com/MadhuraFadatare/Simple-Sign-in-Page-/blob/main/Screenshot%202025-09-01%20215214.png?raw=true)
 
 
 
